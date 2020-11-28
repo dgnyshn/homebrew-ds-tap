@@ -6,7 +6,7 @@ require "language/go"
 class KsqlCli < Formula
   desc "A simple interactive prompt for ksql"
   homepage "https://github.com/theLastAirbander/ksql-cli"
-  url "https://github.com/theLastAirbander/ksql-cli/archive/v.0.0.1.tar.gz"
+  url "https://github.com/theLastAirbander/ksql-cli/archive/v1.0.tar.gz"
   sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   head "https://github.com/theLastAirbander/ksql-cli"
 
