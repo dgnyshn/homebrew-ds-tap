@@ -3,7 +3,7 @@ require "language/go"
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class DockerShell < Formula
+class KsqlCli < Formula
   desc "A simple interactive prompt for ksql"
   homepage "https://github.com/theLastAirbander/ksql-cli"
   url "https://github.com/theLastAirbander/ksql-cli/archive/v.0.0.1.tar.gz"
