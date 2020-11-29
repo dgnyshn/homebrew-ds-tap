@@ -7,7 +7,7 @@ class KsqlCli < Formula
   desc "A simple interactive prompt for ksql"
   homepage "https://github.com/theLastAirbander/ksql-cli"
   url "https://github.com/theLastAirbander/ksql-cli/archive/v1.0.tar.gz"
-  sha256 "03ebfb655a69c46568d4fc246e11f5e6b1517438c72b8b832b27c8241be01fb3"
+  sha256 "8f719f5278a6694c5944fd6949db895385d1e36a9d944d2cc28808360178471f"
   head "https://github.com/theLastAirbander/ksql-cli"
 
   depends_on "go" => :build
